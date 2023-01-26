@@ -1,0 +1,170 @@
+body
+{
+    text-align: center;
+    background-color: #152238;
+}
+.full
+{
+    width: 23%;
+    margin: 200px auto;
+    background-color: #1c2e4a;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-style: solid;
+    
+    border-top: 0;
+    border: 100px;
+    
+    
+}
+.cube
+{
+    width: 300px;
+    border-radius: 25px;
+    margin-top: 10px
+}
+.part1
+{
+    text-align: left;
+    margin-left: 23px;
+    margin-top: 15px;
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
+.para1
+{
+    text-align: left;
+    margin-left: 25px;
+    font-size: larger;
+    font-family: 'Quicksand', sans-serif;
+    color: #A3B3C9;
+    font-weight: bolder;
+    
+    
+}
+.inline1
+{
+ display: inline-block;
+ 
+ margin-top: 0;
+ margin-bottom: 0;
+ color: #00F2DE ;
+ position: relative;
+}
+.inline2
+{
+ display: inline-block;
+ position: relative;
+}
+.creator
+{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 26px;
+    border : 2px solid white;
+    border-radius: 100%;
+
+}
+.text
+{
+    display: inline-block;
+    margin-right:90px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+.attribution
+{
+    margin: 200px auto;
+}
+.stone
+{
+    display: inline-block;
+    position: absolute;
+    bottom: 5px;
+   
+    
+
+}
+
+.ETH
+{
+    
+    font-size: 1em;
+    
+    font-family: 'Mukta', sans-serif;
+    font-weight: bolder;
+    margin-right: 120px;
+    margin-left: 14px;
+    
+}
+.clock
+{
+    position: absolute;
+    
+}
+.days
+{
+    margin-left: 20px;
+    font-family: 'Outfit', sans-serif;
+    color: #A3B3C9;
+}
+.jules
+{
+    color: #FFFFFF;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+}
+.creationof
+{
+    font-family: 'Quicksand', sans-serif;
+    color: #A3B3C9;
+    font-weight: bolder;
+}
+hr
+{
+    width: 84%;
+   
+    border-bottom: 0;
+    color: #A3B3C9;
+}
+.by{
+    font-family: 'Outfit', sans-serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    color: #3a7289;
+}
+.mentor
+{
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #235284;
+}
+.mentor:hover
+{
+   color: grey;
+}
+.me{
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #235284;
+}
+.code
+{
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #3a728e
+}
+.pp
+{
+    margin: 80px;
+}
